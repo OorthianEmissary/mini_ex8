@@ -1,4 +1,4 @@
-# [ N O W E N T E R I N G W A R P S P E E D ]
+# [ N O W      E N T E R I N G      W A R P      S P E E D ]
 
 ![ScreenShot](screenshot.png)
 
